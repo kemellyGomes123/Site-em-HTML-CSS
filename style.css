@@ -1,0 +1,72 @@
+*{
+    margin: 30;
+    padding: 10;
+
+}  
+h1, h2, h3, h4, p, li {
+    font-family:'Times New Roman', Times, serif;
+}
+
+header {
+    border-top: 8px solid cornflowerblue;
+}
+h1, h2 {
+    color:cornflowerblue;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-style: italic;
+    
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+    color:cornflowerblue;
+}
+
+h4 {
+    font-size: 20px;
+    text-transform: uppercase ;
+    text-align: center;
+    color: cornflowerblue;
+}
+p {
+    font-size: 22px;
+    line-height: 1,0;
+}
+
+li {
+    font-size: 20px;
+}
+
+footer p {
+    font-size: 16px;
+}
+#autor {
+    font-style: italic;
+    font-size:  16px;
+}
+
+.posts-relacionados{
+    list-style: none;
+}
+
+.cab {
+    background-color:cornsilk;
+    padding: 2px 1em 0 1em;
+    line-height: 0.1;
+}
+a {
+    text-decoration: none;
+}
+
+aside {
+    border: 5px solid cornflowerblue;
+}
+
+
+
+
